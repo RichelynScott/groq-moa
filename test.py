@@ -3,7 +3,7 @@ import pandas as pd
 import csv
 
 # Your Google Places API key
-API_KEY = 'AIzaSyA2qQsK9WvYz1gWuYkGhki3HNd99meZn4U'
+API_KEY = 'AIzaSy****'
 
 # Load the quadrants data with the correct path
 quadrants = pd.read_csv('/Users/richelynscott/GPT_ENVs/groq-moa/quadrants.csv')
